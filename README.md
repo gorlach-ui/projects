@@ -1,12 +1,12 @@
 # Felix Gorlach — AI & Business Process Automation Portfolio
 
->This repository showcases applied AI projects from academic coursework, with a focus on building efficient, automated, and intelligent systems.
+> This repository showcases applied AI projects from academic coursework, with a focus on building efficient, automated, and intelligent systems.
 
 ---
 
 ## About Me
 
-I am finalizing my graduate degree with hands-on experience building AI-driven tools across deep learning, reinforcement learning, and large language model fine-tuning. My background bridges **software** and **business process automation** — I don't just train models, I build systems that work end-to-end.
+I am finalizing my graduate degree with hands-on experience building AI-driven tools across deep learning, reinforcement learning, and large language model fine-tuning. My background bridges **software** and **business process automation**; I don't just train models, I build systems that work end-to-end.
 
 Key strengths:
 - AI-driven tool development with real-world automation applications
