@@ -1,4 +1,4 @@
-# Felix Gorlach — AI & Business Process Automation Portfolio
+ AI & Business Process Automation Portfolio
 
 > This repository showcases applied AI projects from academic coursework, with a focus on building efficient, automated, and intelligent systems.
 
